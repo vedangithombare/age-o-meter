@@ -1,10 +1,10 @@
-import Age from "./components/age";
+import MainAge from "./components/MainAge";
 
 function App() {
 
   return (
     <>
-    <Age/>
+    <MainAge/>
     
     </>
   )
